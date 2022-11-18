@@ -97,7 +97,7 @@ export default function Home() {
           marginRight: "auto",
         }}
       >
-        画像up!
+        画像uploader
       </h1>
       <p
         style={{
